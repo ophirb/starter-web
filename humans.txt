@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Ophir Ben Attia   ophirb@gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
